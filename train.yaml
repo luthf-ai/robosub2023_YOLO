@@ -1,0 +1,17 @@
+path: something/final_labels
+train: images/train
+val: images/val
+names:
+  0: Bins_Abydos
+  1: Bins_Earth
+  2: Bins_Unknown
+  3: Gate
+  4: Gate_Abydos
+  5: Gate_Earth
+  6: Glyph_Abydos_1
+  7: Glyph_Abydos_2
+  8: Glyph_Earth_1
+  9: Glyph_Earth_2
+  10: Hexagon
+  11: Stargate_Closed
+  12: Stargate_Open
